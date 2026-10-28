@@ -24,7 +24,7 @@ Manual testing of the login form on [Practice Test Automation](https://practicet
 
 | Test cases | Passed | Failed | Blocked | Bugs reported |
 |---|---|---|---|---|
-| 25 | – | – | – | – |
+| 25 | 24 | 1 | – | 1 |
 
 Full results: [test-execution](test-execution/)
 
