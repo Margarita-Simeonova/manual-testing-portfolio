@@ -29,7 +29,8 @@ Nothing happens. The page does not change, the fields keep their values, and no 
 Most users expect Enter to submit a login form. Keyboard-only users and users of assistive technology may not be able to log in without a mouse.
 
 ## Attachments
-![Screenshot after pressing Enter](../screenshots/BUG-001.png)
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/bd64c72a-4a65-4a8a-a746-3c2f641bc81c" />
+
 
 ## Notes
 Clicking Submit with the same data works as expected (TC-P01 passed).
