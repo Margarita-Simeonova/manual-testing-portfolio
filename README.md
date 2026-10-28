@@ -23,13 +23,13 @@ Manual testing of the login form on [Practice Test Automation](https://practicet
 
 | Test cases | Passed | Failed | Blocked | Bugs reported |
 |---|---|---|---|---|
-| 25 | 24 | 1 | – | 1 |
+| 25 | 24 | 1 | 0 | 1 |
 
 Full results: [test-execution](test-execution/)
 
 ## Tools
 
-Chrome, Firefox, Edge · Chrome DevTools · GitHub · Markdown
+Qase (test management) · Chrome, Firefox, Edge · Chrome DevTools · GitHub · Markdown
 
 ## Author
 
