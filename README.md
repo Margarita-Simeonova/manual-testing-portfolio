@@ -18,7 +18,6 @@ Manual testing of the login form on [Practice Test Automation](https://practicet
 | [test-cases](test-cases/) | Test cases: positive, negative and regression suite |
 | [test-execution](test-execution/) | Results of each test run (Pass / Fail / Blocked) |
 | [bug-reports](bug-reports/) | One file per bug found |
-| [screenshots](screenshots/) | Evidence attached to bug reports |
 
 ## Summary of the latest run
 
